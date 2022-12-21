@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "config.json": "^0.0.4"
+  }
+}
